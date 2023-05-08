@@ -1,6 +1,6 @@
-# My Web App: Abjad System Character Sum
+# Abjad Calculator
 
-This repository contains a simple web application that takes characters entered into an input box and displays the sum of numerical values assigned to each character based on the Abjad System. The numerical system is manually defined in a separate file.
+This is a simple web application that calculates the sum of numerical values assigned to each character entered into an input box. The numerical system is based on the [Abjad system](https://en.wikipedia.org/wiki/Abjad_numerals), which is manually defined in a separate file.
 
 ## Table of Contents
 
