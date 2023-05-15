@@ -1,4 +1,4 @@
-import React , {useState} from "react"
+import {useState} from "react"
 import Calculator from "./components/Calculator"
 import logo from './assets/logo.png'
 import AbjadTable from "./components/AbjadTable"
